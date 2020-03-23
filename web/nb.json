@@ -41,7 +41,13 @@
   "CopiedToClipboard": "Lenke til observasjonen kopiert til utklippstavle.",
   "CountOf": "Antall",
   "CreateObservation": "Create observation",
-  "Date": "dato",
+  "DateTime": {
+    "Date": "Dato",
+    "InvalidDate": "Ugyldig dato",
+    "InvalidTime": "Ugyldig tidspunkt",
+    "Now": "Nå",
+    "Time": "Tidspunkt"
+  },
   "Dialogs": {
     "Buttons": {
       "AddForm": "Legg til skjema",
@@ -114,7 +120,6 @@
     "Search": "Søk"
   },
   "Information": "Informasjon",
-  "InvalidDate": "Ugyldig dato",
   "LanguageLabel": "Språk:",
   "Login": {
     "CreateNewRegObsUser": "Opprett regObs bruker her.",
@@ -239,7 +244,6 @@
     }
   },
   "No": "Nei",
-  "Now": "nå",
   "ObservationCard": {
     "AboveSeaLevel": "moh",
     "Download": "Last ned",
@@ -716,7 +720,6 @@
     "CompleteKey": "Komplett",
     "ShortKey": "Kort"
   },
-  "Time": "tidspunkt",
   "Unknown": "Ukjent",
   "Url": {
     "Add": "Legg til weblenke",

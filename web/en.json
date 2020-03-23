@@ -41,7 +41,13 @@
   "CopiedToClipboard": "Hyperlink to the observation copied to the clipboard.",
   "CountOf": "Count",
   "CreateObservation": "Create observation",
-  "Date": "date",
+  "DateTime": {
+    "Date": "Date",
+    "InvalidDate": "Invalid date",
+    "InvalidTime": "Invalid time",
+    "Now": "Now",
+    "Time": "Time"
+  },
   "Dialogs": {
     "Buttons": {
       "AddForm": "Add form",
@@ -114,7 +120,6 @@
     "Search": "Search"
   },
   "Information": "Information",
-  "InvalidDate": "Invalid date",
   "LanguageLabel": "Language:",
   "Login": {
     "CreateNewRegObsUser": "Create regObs user here",
@@ -239,7 +244,6 @@
     }
   },
   "No": "No",
-  "Now": "now",
   "ObservationCard": {
     "AboveSeaLevel": "MASL",
     "Download": "Download",
@@ -716,7 +720,6 @@
     "CompleteKey": "Complete",
     "ShortKey": "Short"
   },
-  "Time": "time",
   "Unknown": "Unknown",
   "Url": {
     "Add": "Add web URL",
